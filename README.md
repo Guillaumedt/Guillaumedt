@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guillaumedt
 - 👀 I’m interested in working with many different people
-- 🌱 I’m currently learning Data Science and Artificial Intelligence at ESILV engineering school.
+- 🌱 I’m a Data & AI engineer, graduate from ESILV engineering school (la Défense)
 - 📫 Contact me by mail : gdetrentinian@gmail.com
 
 <!---
